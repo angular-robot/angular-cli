@@ -898,8 +898,8 @@ importers:
   tools/baseline_browserslist:
     devDependencies:
       baseline-browser-mapping:
-        specifier: 2.7.1
-        version: 2.7.1
+        specifier: 2.7.2
+        version: 2.7.2
 
 packages:
 
@@ -4178,8 +4178,8 @@ packages:
     resolution: {integrity: sha512-lGe34o6EHj9y3Kts9R4ZYs/Gr+6N7MCaMlIFA3F1R2O5/m7K06AxfSeO5530PEERE6/WyEg3lsuyw4GHlPZHog==}
     engines: {node: ^4.5.0 || >= 5.9}
 
-  baseline-browser-mapping@2.7.1:
-    resolution: {integrity: sha512-OLFmOFzUptOAyNGOgfYSCIqfmc+h2UNoY2hY0ZAFwe/aGLcH7ms/bI0Vn/RAfzAQBfYV0tuBlHhZeYix0NHDag==}
+  baseline-browser-mapping@2.7.2:
+    resolution: {integrity: sha512-uAiDCXRpHi+FQgPGyJcfQc8/l9Wbo4aRDQdijbcXVCgBpNSCcW2np66iAX6mRgKhnnhAKSII9KaN5BOvITCofg==}
     hasBin: true
 
   basic-ftp@5.0.5:
@@ -12869,7 +12869,7 @@ snapshots:
 
   base64id@2.0.0: {}
 
-  baseline-browser-mapping@2.7.1: {}
+  baseline-browser-mapping@2.7.2: {}
 
   basic-ftp@5.0.5: {}
 
